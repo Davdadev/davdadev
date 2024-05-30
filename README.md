@@ -12,3 +12,4 @@ Welcome to my GitHub profile!
 - 📫 How to reach me: ccctech.me@gmail.com
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: ...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?davdadev=anuraghazra&tokyonight=dark&show_icons=true)
