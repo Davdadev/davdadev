@@ -1,6 +1,4 @@
  Hello, I'm David
-<a href="https://github.com/Davdadev/github-readme-stats/graphs/veiws">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/views/anuraghazra/github-readme-stats" />
 
 
 Welcome to my GitHub profile!
