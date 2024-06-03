@@ -7,6 +7,7 @@
 - 📫 How to reach me: ccctech.me@gmail.com
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: ...
+- 
 ![](https://komarev.com/ghpvc/?username=Davdadev)
 # Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Davdadev&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=gotham)
