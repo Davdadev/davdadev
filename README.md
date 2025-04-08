@@ -1,12 +1,5 @@
  Hello, I'm David
-- 🔭 I’m currently working on my website ccctech.me
-- 🌱 I’m currently learning HTML, CSS, JS, Python,C++
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with API, AI
-- 💬 Ask me about ...
-- 📫 How to reach me: ccctech.me@gmail.com
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: ...
+
 - 
 ![](https://komarev.com/ghpvc/?username=Davdadev)
 # Github Stats
