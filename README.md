@@ -12,10 +12,9 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davdadev&show_icons=true&show_rank=true&theme=material-palenight&hide_border=true&include_all_commits=false&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+  
   <br/>
   <img src="https://streak-stats.demolab.com/?user=Davdadev&theme=material-palenight&hide_border=true" alt="Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davdadev&layout=compact&theme=material-palenight&hide_border=true" alt="Top Langs" />
-</div>
+  
 
