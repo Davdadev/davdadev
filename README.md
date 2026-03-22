@@ -19,8 +19,4 @@
   <br/>
   
 
-<!-- Statistics: General statistics -->
-<picture>
-  <source srcset="https://raw.githubusercontent.com/Davdadev/stats/main/output/stats_general.svg#gh-dark-mode-only"  media="(prefers-color-scheme: dark)">
-  <img src="https://raw.githubusercontent.com/Davdadev/stats/main/output/stats_general.svg">
-</picture>
+
