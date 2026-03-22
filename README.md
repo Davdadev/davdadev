@@ -1,4 +1,5 @@
 <h1>Hello, I'm David</h1>
+<h2>Using ai to not be traped the garden of tech subscriptions </h2>
 <h2>🥱😀🤷‍♂️🧠</h2>
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
