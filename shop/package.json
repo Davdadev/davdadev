@@ -1,0 +1,25 @@
+{
+  "name": "fidget-shop",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "16.2.1",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "stripe": "^15.8.0",
+    "micro": "^10.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "16.2.1"
+  }
+}
